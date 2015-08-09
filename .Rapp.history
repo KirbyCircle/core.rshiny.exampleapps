@@ -1,0 +1,43 @@
+install.packages("shiny")
+library(shiny)#
+> runExample("01_hello")
+library(shiny)#
+runExample("01_hello")
+q
+ls()
+getwd()
+getwd()
+cd
+cwd
+ls
+ls()
+clear
+clc
+c
+library(shiny)
+runApp("my-app-1")
+runApp("my-app-1")
+runApp("my-app-1")
+runApp("my-app-1")
+install.packages('devtools')
+devtools::install_github('rstudio/shinyapps')
+shinyapps::setAccountInfo(name='kirbycircle', token='5DC60C5E0ADCF547AB24E2D793CB0B49', secret='kz7RzcWjURK4Fsp1B7LWSejcMw5M6S8WgVgXvlmt')
+library(shinyapps)#
+shinyapps::deployApp('my-app-1')
+system.file("examples", package="shiny")
+runExample("02_text") # tables and data frames
+runExample("03_reactivity") # a reactive expression
+runExample("09_upload") # file upload wizard
+runApp("tennis-app")
+runApp("tennis-app")
+runApp("tennis-app")
+runApp("tennis-app")
+runApp("tennis-app")
+runApp("tennis-app")
+runApp("tennis-app")
+runApp("tennis-app")
+runApp("tennis-app")
+runApp("tennis-app")
+runApp("tennis-app")
+runExample("07_widgets") # help text and submit buttons
+runExample("04_mpg") # global variables
